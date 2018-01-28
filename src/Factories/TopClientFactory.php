@@ -1,5 +1,5 @@
 <?php
-namespace Orzcc\TopClient\Factories;
+namespace EasyLaravel\TopClient\Factories;
 
 use TopClient\TopClient;
 

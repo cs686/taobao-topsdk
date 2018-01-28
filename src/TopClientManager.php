@@ -1,7 +1,7 @@
 <?php
-namespace Orzcc\TopClient;
+namespace EasyLaravel\TopClient;
 
-use Orzcc\TopClient\Factories\TopClientFactory;
+use EasyLaravel\TopClient\Factories\TopClientFactory;
 use GrahamCampbell\Manager\AbstractManager;
 use Illuminate\Contracts\Config\Repository;
 
